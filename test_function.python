@@ -1,0 +1,6 @@
+
+import function
+
+def test_add_nums():
+  added = function.add_nums(2, 2)
+  assert added == 4
